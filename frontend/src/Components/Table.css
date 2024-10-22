@@ -1,0 +1,26 @@
+ .theader{
+    margin-top: 1rem;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    
+} 
+.highlight-row{
+    background-color: gray;
+}
+/* .column-highlight{
+    background-color: gray;
+} */
+
+/* .row-red {
+    background-color: #f8d7da; 
+  }
+  
+  .row-green {
+    background-color: #d4edda; 
+  }
+  
+  .row-blue {
+    background-color: #d1ecf1; 
+  } */
+  
